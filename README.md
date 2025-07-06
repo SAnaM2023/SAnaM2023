@@ -13,9 +13,11 @@
 
 - 💬 Ask me about **anything and see if I could help you**
 
-- 📫 How to reach me **through Linkedin, for me privacy is important**
+- 📫 How to reach me **through Linkedin,https://www.linkedin.com/in/ana-molina-958a27252/, for me privacy is important**
 
 - 📄 Know about my experiences ** I am a UX/UI Designer, background in Accessibility**
+  
+- Codeacademy https://www.codecademy.com/profiles/ANA2023
 
 - ⚡ Fun fact **addictive to scrolling vids of funny pets in youtube**
 
