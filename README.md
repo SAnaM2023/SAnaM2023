@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm ana a UX/UI designer ☕💡</h1>
+<h3 align="center">Love efficiency and simplicity, good quality and appealing design.</h3>
 
-<!--
-**SAnaM2023/SAnaM2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **different private projects for now**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **fullstack in a bootcamp at Factoria 5**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on **with any UX designers**
+
+- 🤝 I’m looking for help with **learning to work in teams**
+
+- 👨‍💻 All of my projects are available at github just for now.
+
+- 💬 Ask me about **anything and see if I could help you**
+
+- 📫 How to reach me **through Linkedin, for me privacy is important**
+
+- 📄 Know about my experiences ** I am a UX/UI Designer, background in Accessibility**
+
+- ⚡ Fun fact **addictive to scrolling vids of funny pets in youtube**
+
