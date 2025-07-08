@@ -19,5 +19,5 @@
   
 - Codeacademy https://www.codecademy.com/profiles/ANA2023
 
-- ⚡ Fun fact **addictive to scrolling vids of funny pets in youtube**
+- ⚡ Fun fact **Watching foreign films in their original language is a hobbie of mine. **
 
