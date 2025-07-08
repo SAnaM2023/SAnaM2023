@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm ana a UX/UI designer ☕💡</h1>
-<h2>I´m a Python Full-Stack developer in the making</h2>
+<h1 align="center">Hi 👋, I'm Ana, a UX/UI designer ☕💡</h1>
+<h2 align="center">I´m a Python Full-Stack developer in the making</h2>
                                                       
 <h3 align="center">Love efficiency and simplicity, good quality and appealing design.</h3>
+<p align="center">
 
-- 🔭 I’m currently working on **different private projects for now**
+🔭 I’m currently working on **different private projects for now**
 
 - 🌱 I’m currently learning **fullstack in a bootcamp at Factoria 5**
 
@@ -24,3 +25,4 @@
 - ⚡ Fun fact **Watching foreign films in their original language is a hobbie of mine **
               **Also creating cozy spaces that heal, keeps my creativity exercise**
 
+</p>
