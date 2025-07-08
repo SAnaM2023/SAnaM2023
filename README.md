@@ -19,5 +19,5 @@
   
 - Codeacademy https://www.codecademy.com/profiles/ANA2023
 
-- ⚡ Fun fact **Watching foreign films in their original language is a hobbie of mine. **
+- ⚡ Fun fact **Watching foreign films in their original language is a hobbie of mine **
 
